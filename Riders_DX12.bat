@@ -1,0 +1,1 @@
+"E:\UE_4.22\Engine\Binaries\Win64\UE4Editor.exe" "D:\Riders_Content_Vitaly\Riders\Riders.uproject" -DX12 -log

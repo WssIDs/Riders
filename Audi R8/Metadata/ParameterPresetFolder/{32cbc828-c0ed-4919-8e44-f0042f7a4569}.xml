@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPresetFolder" id="{32cbc828-c0ed-4919-8e44-f0042f7a4569}">
+		<property name="name">
+			<value>Tyres Rolling</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5044c036-a411-472e-8386-389205fc5f68}</destination>
+		</relationship>
+	</object>
+</objects>

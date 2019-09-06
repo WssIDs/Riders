@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Workspace" id="{644986cd-c80c-4d79-bea2-2052fb3f043b}">
+		<property name="builtBanksOutputDirectory">
+			<value>D:/Riders_Content_Vitaly/Riders/Content/FMOD</value>
+		</property>
+		<property name="builtBanksSeparateAssets">
+			<value>true</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{46d97d03-e223-4278-a208-6d4870de9ac4}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{5c47e4fb-6fb7-4289-a93c-4bac160d815d}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{244d406d-4086-0e7e-0901-e3e809b4c79a}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{2cf25da4-ce6f-0752-0947-2203b9fe58f0}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{3a7988c3-3230-4a65-ac62-0ffaf1f6753c}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{a6ddf6d4-72a7-43a7-a53a-29484c823150}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{faedd03f-b938-4a9b-9654-1207a6ef5e22}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{968226d2-54b3-429a-8f22-4cdfff060f33}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2a020f35-a488-4332-bf4a-27dc9dba36c4}">
+		<property name="assetPath">
+			<value>Engine/Audir8_acc_and_deacc.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.90181</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a6ddf6d4-72a7-43a7-a53a-29484c823150}</destination>
+		</relationship>
+	</object>
+</objects>

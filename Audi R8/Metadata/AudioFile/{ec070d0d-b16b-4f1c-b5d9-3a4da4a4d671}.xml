@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ec070d0d-b16b-4f1c-b5d9-3a4da4a4d671}">
+		<property name="assetPath">
+			<value>Engine(Good)/Eng_high_offload.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.98641699999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a6ddf6d4-72a7-43a7-a53a-29484c823150}</destination>
+		</relationship>
+	</object>
+</objects>

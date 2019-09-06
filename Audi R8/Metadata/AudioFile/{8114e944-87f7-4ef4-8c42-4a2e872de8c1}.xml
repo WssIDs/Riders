@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{8114e944-87f7-4ef4-8c42-4a2e872de8c1}">
+		<property name="assetPath">
+			<value>Engine/Audir8_defrom2shift.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.4678899999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a6ddf6d4-72a7-43a7-a53a-29484c823150}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "Race",
+	"Description": "RaceGame",
+	"Modules": [
+		{
+			"Name": "Riders",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject",
+				"PhysXVehicles"
+			]
+		},
+		{
+			"Name": "RidersUMG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		}
+	]
+}

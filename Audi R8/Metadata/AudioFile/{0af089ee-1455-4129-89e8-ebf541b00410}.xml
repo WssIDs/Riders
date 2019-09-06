@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{0af089ee-1455-4129-89e8-ebf541b00410}">
+		<property name="assetPath">
+			<value>Engine/Audir8_engine2(gd)lp.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.9934500000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a6ddf6d4-72a7-43a7-a53a-29484c823150}</destination>
+		</relationship>
+	</object>
+</objects>

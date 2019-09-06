@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects managedObjectVersionString="Studio.1.DeveloperPreview.0">
+    <object class="ProfilerSessionFolder" id="{e92f4a41-7f53-4e8a-ac07-f5f677cf9d9e}">
+        <property name="name">
+            <value>Profiler Sessions</value>
+        </property>
+        <relationship name="workspace">
+            <destination>{1e041254-352f-47c9-8864-ab32f814981a}</destination>
+        </relationship>
+    </object>
+</objects>
